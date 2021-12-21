@@ -10,7 +10,7 @@ import SearchBar from "../components/SearchBar";
 const ListScreen = () => {
     
 
-
+    //deneme
     const [select, setSelect] = useState('1');
 
     const local_data = [
